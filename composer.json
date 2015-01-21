@@ -1,0 +1,31 @@
+{
+  "name": "aeris/zend-rbac",
+  "description": "A bridge for the ZfcRbac module",
+  "version": "0.0.0",
+  "keywords": [
+    "zend",
+    "zf",
+    "zf2",
+    "auth",
+    "authorization",
+    "authentication",
+    "permissions",
+    "rbac",
+    "acl"
+  ],
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Edan Schwartz",
+      "email": "edanschwartz@gmail.com"
+    },
+    {
+      "name": "Seth Miller",
+      "email": "seth@four43.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "zendframework/zendframework": "2.3.*"
+  }
+}
